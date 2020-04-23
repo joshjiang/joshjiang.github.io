@@ -15,7 +15,7 @@ Tuesday, I began using the 400 method. Doing that I got 7:08:47 which is only 8 
 |     | S | M | T | W | T |F| S |
 |-----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 Goal  | 0 | 1 | 1 | 0 | 1 | 1| 0 | 
-Actual| 0 | 1 | 1 | - | - | -| - |  
+Actual| 0 | 1 | 1 | 1 | - | -| - |  
 
 ## 🦊 Melee
 
@@ -51,5 +51,5 @@ Despite not having finished the book yet, I want to begin coding anyway. At the 
 |     | S | M | T | W | T |F  | S |
 |-----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 Goal  | - | - | - | 30 | 30| 30| 30| 30|
-Actual| - | - | - | - | -  | -  | - | - |
+Actual| - | - | - | 30 | -  | -  | - | - |
 
